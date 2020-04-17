@@ -22,7 +22,7 @@ name                     : "Action for Genomic Integrity  through Research"
 description              : "Genomic integrity, genome, sitizen science"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""
-repository               : https://github.com/tatieliseeva/agir_site
+repository               : # https://github.com/tatieliseeva/agir_site
 teaser                   : # assets/images/flier.jpeg
 logo                     : images/AGiR.jpeg
 masthead_title           : ""
