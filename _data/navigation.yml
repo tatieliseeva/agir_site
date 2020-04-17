@@ -1,0 +1,30 @@
+# main links
+main:
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #- title: "About"
+  #  url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Home"
+    url: /home/
+  - title: "Our Mission"
+    url: /our_mission/
+  - title: "Who we are"
+    url: /who_we_are/
+  - title: "News"
+    url: /news/
+  - title: "Posts"
+    url: /posts/
+  - title: "Genomic Damage"
+    description: "Some information and useful links"
+    url: /genomic_damage/
+  - title: "Genomic Integrity"
+    description: "Some information and useful links"
+    url: /genomic_integrity/
+  - title: "Tools"
+    description: "Open source tools and software that we are developing"
+    url: /tools/
+  - title: "Workshops"
+    description: "Past and upcoming workshops"
+    url: /workshops/
+  - title: "Sitemap"
+    url: /sitemap/
