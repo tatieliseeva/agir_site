@@ -6,6 +6,6 @@ header:
   overlay_color: "#69CCF4"
 ---
 
-<h1> Who we are </h1>
+<h2> Who we are </h2>
 
-<h1> Our Mission </h1>
+<h2> Our Mission </h2>
