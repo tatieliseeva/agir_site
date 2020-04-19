@@ -1,4 +1,3 @@
-# main links
 main:
   - title: "Home"
     url: /home/
@@ -20,5 +19,3 @@ main:
   - title: "Workshops"
     description: "Past and upcoming workshops"
     url: /workshops/
-  - title: "Sitemap"
-    url: /sitemap/
