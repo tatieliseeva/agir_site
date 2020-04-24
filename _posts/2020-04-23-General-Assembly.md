@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /news/
+permalink: /_posts/
 title:  "General Assembly 2020"
 header:
   overlay_image: /images/header.jpg
