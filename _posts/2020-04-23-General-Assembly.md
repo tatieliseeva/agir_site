@@ -6,7 +6,7 @@ header:
   overlay_image: /images/header.jpg
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/news/GA042020.png" alt="" class="full">
+<img src="/images/news/GA042020.png" alt="" class="center">
 
 
 
