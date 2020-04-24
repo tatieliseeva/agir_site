@@ -4,7 +4,7 @@ main:
   - title: "About"
     url: /about/
   - title: "News"
-    url: /news/
+    url: /_posts/
   - title: "Blog"
     url: /blog/
   - title: "Genomic Damage"
