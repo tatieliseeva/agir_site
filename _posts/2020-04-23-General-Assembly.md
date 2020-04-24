@@ -5,4 +5,7 @@ header:
   overlay_image: /images/header.jpg
 ---
 
-/image/news/GA042020.png
+<img src="{{ site.url }}{{ site.baseurl }}/images/news/GA042020.png" alt="" class="full">
+
+
+
