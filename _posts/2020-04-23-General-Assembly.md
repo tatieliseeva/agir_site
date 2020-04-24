@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 permalink: /_posts/
 header:
   image: /images/header.jpg
