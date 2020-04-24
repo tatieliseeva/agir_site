@@ -3,7 +3,7 @@ permalink: /home/
 layout: splash
 title: "Home"
 header: 
-  overlay_color: "#69CCF4"
+  overlay_image: /images/header.jpg
   
 ---
 
