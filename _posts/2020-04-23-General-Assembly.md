@@ -1,5 +1,6 @@
 ---
 layout: posts
+title: News
 permalink: /_posts/
 header:
   overlay_image: /images/header.jpg
