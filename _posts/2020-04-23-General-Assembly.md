@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: post
 permalink: /_posts/
 title:  "General Assembly 2020"
 header:
