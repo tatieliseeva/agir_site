@@ -17,4 +17,4 @@ title: "Contact"
     <textarea name="message"></textarea>
   </label>
   <button type="submit">Send</button>
-</form>
+class="center" </form>
