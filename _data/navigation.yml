@@ -19,3 +19,5 @@ main:
   - title: "Workshops"
     description: "Past and upcoming workshops"
     url: /workshops/
+  - title: "Contact"
+    url: /contact/
