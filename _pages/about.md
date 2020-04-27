@@ -6,9 +6,7 @@ header:
   overlay_image: /images/header.jpg
 ---
 
-<h2> Who we are </h2>
-
-<h2> Our Mission </h2>
+<h1> Our Mission </h1>
 
 AGiR! is here to provide information and promote research!
 
@@ -29,3 +27,23 @@ AGiR! wants to promote research, to determine how to not only quantify impacts o
 Are you concerned about health and the future?
 Click around and please think about your cells, and all these issues!
 
+
+
+
+<h1> Who we are </h1>
+
+Concerned about impacts of fashion choices on genomic integrity, the biologist Rachel Aronoff has kept a website for several years aiming to 'end fashion victimization' in the most serious sense of the phrase!  After many years, she finally took that old  <a href="http://raronoff.tripod.com/index.html">website</a> , its domain, genomicintegrity.org, and its <a href="http://agirgenomes.blogspot.com/"> blog</a> one step further, to become the non-profit association: "AGiR! Action for Genomic integrity through Research" at the first meeting of the general assembly, Sept2013
+This move will hopefully allow better transmission of information and encourage further directed research about what factors result in the most damage and the best means to protect and preserve genomic integrity. 
+
+Luckily, she (shown, left, at the first General Assembly meeting) has found some people willing to help get this all going, hoping to provide information and promote research!  :)
+
+Officially, as of the last general assembly meetings (April 2020) on the executive committee of AGiR!, as a public service association in Switzerland, the bord members are:
+Rachel Aronoff, PhD, as founder and president,
+Tatiana Eliseeva, as secretary, and
+Carol Bonvin, as treasurer
+
+We are still learning more about DNA and the RNAs that regulate so many aspects of its expression and stability.
+
+Other active members in AGiR! and its supporters include people from Zurich to Geneva (and, as valued participants, from all around the world). 
+
+Use the contact form to join in!
