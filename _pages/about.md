@@ -35,10 +35,10 @@ This move will hopefully allow better transmission of information and encourage 
 
 Luckily, she (shown, left, at the first General Assembly meeting) has found some people willing to help get this all going, hoping to provide information and promote research!  :)
 
-*Officially, as of the last general assembly meetings (April 2020) on the executive committee of AGiR!, as a public service association in Switzerland, the bord members are:
- *Rachel Aronoff, PhD, as founder and president,
- *Tatiana Eliseeva, as secretary, and
- *Carol Bonvin, as treasurer
+Officially, as of the last general assembly meetings (April 2020) on the executive committee of AGiR!, as a public service association in Switzerland, the bord members are:
+ * Rachel Aronoff, PhD, as founder and president,
+ * Tatiana Eliseeva, as secretary, and
+ * Carol Bonvin, as treasurer
 
 We are still learning more about DNA and the RNAs that regulate so many aspects of its expression and stability.
 
