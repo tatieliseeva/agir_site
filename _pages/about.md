@@ -21,10 +21,9 @@ The choices made are key!
 
 <b>The aim of the international association, AGiR! Action for Genomic integrity through Research!, is to provide information about how so many common practices can result in DNA damage (also indirectly, via our own cellular processes) or can affect gene expression (via e.g. RNAs or epigenetic 'marks' on DNA itself or associated histone proteins).
 
-<b>AGiR! wants to promote research, to determine how to not only quantify impacts on genomic integrity, but perhaps prevent them!</b>
+<b>AGiR! wants to promote research, to determine how to not only quantify impacts on genomic integrity, but perhaps prevent them!
        
-Are you concerned about health and the future?
-Click around and please think about your cells, and all these issues!
+Are you concerned about health and the future? Click around and please think about your cells, and all these issues!
 
 
 
