@@ -19,9 +19,9 @@ Genetic lesions, the disruption of proper gene expression, breaks in and losses 
 You can act to protect Genomic integrity in many ways - even less sugar intake is one way to reduce 'reactive oxygen species' levels, for instance….   
 The choices made are key!
 
-<b>The aim of the international association, AGiR! Action for Genomic integrity through Research!, is to provide information about how so many common practices can result in DNA damage (also indirectly, via our own cellular processes) or can affect gene expression (via e.g. RNAs or epigenetic 'marks' on DNA itself or associated histone proteins).
+_The aim of the international association, AGiR! Action for Genomic integrity through Research!, is to provide information about how so many common practices can result in DNA damage (also indirectly, via our own cellular processes) or can affect gene expression (via e.g. RNAs or epigenetic 'marks' on DNA itself or associated histone proteins)._
 
-<b>AGiR! wants to promote research, to determine how to not only quantify impacts on genomic integrity, but perhaps prevent them!
+_AGiR! wants to promote research, to determine how to not only quantify impacts on genomic integrity, but perhaps prevent them!_
        
 Are you concerned about health and the future? Click around and please think about your cells, and all these issues!
 
@@ -36,9 +36,9 @@ This move will hopefully allow better transmission of information and encourage 
 Luckily, she (shown, left, at the first General Assembly meeting) has found some people willing to help get this all going, hoping to provide information and promote research!  :)
 
 Officially, as of the last general assembly meetings (April 2020) on the executive committee of AGiR!, as a public service association in Switzerland, the bord members are:
-Rachel Aronoff, PhD, as founder and president,
-Tatiana Eliseeva, as secretary, and
-Carol Bonvin, as treasurer
+*Rachel Aronoff, PhD, as founder and president,
+*Tatiana Eliseeva, as secretary, and
+*Carol Bonvin, as treasurer
 
 We are still learning more about DNA and the RNAs that regulate so many aspects of its expression and stability.
 
