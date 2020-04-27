@@ -19,4 +19,4 @@ header:
     <textarea name="message"></textarea>
   </label>
   <button type="submit">Send</button>
-class="center" </form>
+</form>
