@@ -19,9 +19,9 @@ Genetic lesions, the disruption of proper gene expression, breaks in and losses 
 You can act to protect Genomic integrity in many ways - even less sugar intake is one way to reduce 'reactive oxygen species' levels, for instance….   
 The choices made are key!
 
-_The aim of the international association, AGiR! Action for Genomic integrity through Research!, is to provide information about how so many common practices can result in DNA damage (also indirectly, via our own cellular processes) or can affect gene expression (via e.g. RNAs or epigenetic 'marks' on DNA itself or associated histone proteins)._
+__The aim of the international association, AGiR! Action for Genomic integrity through Research!, is to provide information about how so many common practices can result in DNA damage (also indirectly, via our own cellular processes) or can affect gene expression (via e.g. RNAs or epigenetic 'marks' on DNA itself or associated histone proteins).__
 
-_AGiR! wants to promote research, to determine how to not only quantify impacts on genomic integrity, but perhaps prevent them!_
+__AGiR! wants to promote research, to determine how to not only quantify impacts on genomic integrity, but perhaps prevent them!__
        
 Are you concerned about health and the future? Click around and please think about your cells, and all these issues!
 
