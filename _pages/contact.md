@@ -1,6 +1,7 @@
 ---
-layout: simple
+layout: splash
 permalink: /contact/
+title: "Contact"
 ---
 
 <form
