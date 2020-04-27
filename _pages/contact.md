@@ -5,8 +5,6 @@ title: "Contact"
 header: 
   overlay_image: /images/header.jpg
 ---
-<h1> Contact </h>
-
 
 <form
   action="https://formspree.io/mzbjpeyv"
