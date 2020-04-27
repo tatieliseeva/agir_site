@@ -4,20 +4,16 @@ permalink: /contact/
 ---
 
 <form
-  action="https://formspree.io/FORM_ID"
+  action="https://formspree.io/mzbjpeyv"
   method="POST"
 >
   <label>
-    Your Name:
-    <input type="text" name="name">
+    Your email:
+    <input type="text" name="_replyto">
   </label>
   <label>
-    Your Email:
-    <input type="email" name="_replyto">
-  </label>
-  <label>
-    Message:
+    Your message:
     <textarea name="message"></textarea>
   </label>
-  <input type="submit" value="Send">
-</form> 
+  <button type="submit">Send</button>
+</form>
