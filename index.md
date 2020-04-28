@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: splash
-title: "AGIR:home"
+title: "Home"
 header: 
   overlay_image: /images/header.jpg
 ---
