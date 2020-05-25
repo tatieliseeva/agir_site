@@ -3,6 +3,9 @@ main:
     url: /about/
   - title: "News"
     url: /_posts/
+  - title: "Tools"
+    description: "Open source tools, protocols and software"
+    url: /tools/
   #- title: "Blog"
   #  url: /blog/
   #- title: "Genomic Damage"
@@ -11,9 +14,6 @@ main:
   #- title: "Genomic Integrity"
   #  description: "Some information and useful links"
   #  url: /genomic_integrity/
-  #- title: "Tools"
-  #  description: "Open source tools and software that we are developing"
-  #  url: /tools/
   #- title: "Workshops"
   #  description: "Past and upcoming workshops"
   #  url: /workshops/
