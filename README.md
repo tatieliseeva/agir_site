@@ -1,4 +1,4 @@
-# AGIR for genomic integrity
+# AGiR! for genomic integrity
 
-A new site of "AGIR! for Genomic Integrity". We are migrating...
+This will become a new site of "AGIR! for Genomic Integrity". We are migrating...<br>
 We are concerned and hope actions work!
